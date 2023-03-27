@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @AMSzura
-- 👀 I’m interested in all aspects of web development, from design to engineering.
-- 🌱 I’m currently learning Node.js and React.js
 - 📫 You can reach me at aaron.szura@gmail.com
