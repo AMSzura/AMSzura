@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @AMSzura
-- 📫 You can reach me at aaron.szura@gmail.com
+
